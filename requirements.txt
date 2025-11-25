@@ -1,2 +1,7 @@
 Flask==2.3.3
 gunicorn==21.2.0
+pandas==2.0.3
+matplotlib==3.7.1
+Pillow==9.5.0  # 用於圖像處理
+numpy==1.24.3
+Werkzeug==2.3.7
