@@ -1,4 +1,3 @@
-import pool
 from flask import Flask, render_template, request, jsonify, g
 import sqlite3
 import os
